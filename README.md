@@ -1,1 +1,1 @@
-# [TandyWiki]
+# TandyWiki
